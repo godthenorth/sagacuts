@@ -835,6 +835,10 @@ strong {
     font-size: 20px;
   }
 
+  .services-thumb{
+  height: 500px;
+  }
+
   .booking-form {
     padding: 35px;
   }
